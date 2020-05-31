@@ -94,7 +94,7 @@ export default {
       time: 0,
       isRunning: false,
       functionName: "Stopwatch",
-      shouldOpenTimeOveredModal: true
+      shouldOpenTimeOveredModal: false
     }
   },
   computed: {

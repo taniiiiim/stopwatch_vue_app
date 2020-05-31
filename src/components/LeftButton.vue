@@ -5,8 +5,6 @@
 </template>
 
 <script>
-import { SECOND, MINUTE, HOUR } from '../constants.js'
-
 export default {
   name: 'left-button',
   props: {
