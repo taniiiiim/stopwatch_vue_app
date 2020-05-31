@@ -1,7 +1,7 @@
 # stopwatch-sfc
 
 ## Overview
-Stopwatch app coded by Vue.js single-file-components, which enables
+This is a stopwatch app coded by Vue.js single-file-components, which enables
 - Stopwatch function
   - A user can trace time on the screen.
   - A user can start measuring time by pushing "Start" button when the stopwatch is not processing.
